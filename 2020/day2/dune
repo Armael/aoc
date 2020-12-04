@@ -1,0 +1,3 @@
+(executable
+  (name day2)
+  (libraries oseq containers))
