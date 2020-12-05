@@ -1,0 +1,4 @@
+(executable
+  (name main)
+  (flags :standard -w -8)
+  (libraries oseq containers))
