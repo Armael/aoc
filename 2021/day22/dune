@@ -1,0 +1,3 @@
+(executable
+  (name main)
+  (libraries oseq containers containers-data gg))
